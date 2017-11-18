@@ -8,15 +8,15 @@ Set the email and sender details of the sender and recipient and send it to the 
 Delete everything inside folder at "C:\Users\YourName\AppData\Roaming\Telegram Desktop\tdata" Then Replace Uncompressed files inside tdata folder who resiver from victim to your telegram tdata !
  
 # What features does it have?
-Bypass Two-step confirmation
-Bypass Inherent identity and need 5-digit verification code
-Support for the official telegram and Please login or register to see this link. desktop unofficial only windows !
+- [x] Bypass Two-step confirmation
+- [x] Bypass Inherent identity and need 5-digit verification code
+- [x] Support for the official telegram and Please login or register to see this link. desktop unofficial only windows !
  
 # Thanks to
-Amir
-JeJe Plus
-Mr3chb1
-Rojhelat
+- Amir
+- JeJe Plus
+- Mr3chb1
+-  Rojhelat
 
 # Report bugs
 Telegram : @N3verlove
