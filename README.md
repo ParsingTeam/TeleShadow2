@@ -10,7 +10,7 @@ Delete everything inside folder at "C:\Users\YourName\AppData\Roaming\Telegram D
 # What features does it have?
 - [x] Bypass Two-step confirmation
 - [x] Bypass Inherent identity and need 5-digit verification code
-- [x] Support for the official telegram and Please login or register to see this link. desktop unofficial only windows !
+- [x] Support for the official telegram desktop unofficial only windows !
  
 # Thanks to
 - Amir
