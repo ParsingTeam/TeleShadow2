@@ -26,6 +26,3 @@ Video : https://telegram.me/parsingteam/3311
 - JeJe Plus
 - Mr3chb1
 - Rojhelat
-
-# Report bugs
-Telegram : @N3verlove
